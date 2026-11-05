@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ash2026-abs26-4616@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261212T141500
 DTEND;TZID=America/Chicago:20261212T143000
 SUMMARY:ASH #272 Oral: Absolute lymphocyte count based pre-emptive steroids
@@ -52,7 +52,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-11268@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261212T171500
 DTEND;TZID=America/Chicago:20261212T173000
 SUMMARY:ASH #420 Oral: Treatment sequencing after progression on bispecific
@@ -74,33 +74,8 @@ CATEGORIES:COAUTHORED,ORAL
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:ash2026-abs26-352@aportugu.local
-DTSTAMP:20261104T185441Z
-DTSTART;TZID=America/Chicago:20261212T173000
-DTEND;TZID=America/Chicago:20261212T193000
-SUMMARY:ASH #2367 Poster: Single-cell identification of JAK/STAT3-driven mo
- nocytes associated with CD19 CAR T-cell toxicities and resistant to prophy
- lactic IL-1 blockade
-DESCRIPTION:Single-cell identification of JAK/STAT3-driven monocytes associ
- ated with CD19 CAR T-cell toxicities and resistant to prophylactic IL-1 bl
- ockade\nPresenter: Emily C. Liang\, MD\nSession: 702. CAR-T CELL THERAPIES
- : BASIC AND TRANSLATIONAL: POSTER I\nAbstract #2367\; submission abs26-352
- \nAll times are New Orleans Central Time (CST\, UTC−06:00).\nVerified No
- vember 4\, 2026.\nASH abstract: https://onlineprogram.hematology.org/paper
- -details.aspx?pid=694052\nASH session: https://onlineprogram.hematology.or
- g/session-details.aspx?sid=119053\nThis event covers the full poster prese
- ntation window. Poster number: 2367.
-LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
- , Louisiana
-URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=694052
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:COAUTHORED,POSTER
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:ash2026-abs26-12698@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261212T173000
 DTEND;TZID=America/Chicago:20261212T193000
 SUMMARY:ASH #2777 Poster: Immune-inflammatory and nutritional biomarkers pr
@@ -126,8 +101,33 @@ CATEGORIES:COAUTHORED,POSTER
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+UID:ash2026-abs26-352@aportugu.local
+DTSTAMP:20261105T164506Z
+DTSTART;TZID=America/Chicago:20261212T173000
+DTEND;TZID=America/Chicago:20261212T193000
+SUMMARY:ASH #2367 Poster: Single-cell identification of JAK/STAT3-driven mo
+ nocytes associated with CD19 CAR T-cell toxicities and resistant to prophy
+ lactic IL-1 blockade
+DESCRIPTION:Single-cell identification of JAK/STAT3-driven monocytes associ
+ ated with CD19 CAR T-cell toxicities and resistant to prophylactic IL-1 bl
+ ockade\nPresenter: Emily C. Liang\, MD\nSession: 702. CAR-T CELL THERAPIES
+ : BASIC AND TRANSLATIONAL: POSTER I\nAbstract #2367\; submission abs26-352
+ \nAll times are New Orleans Central Time (CST\, UTC−06:00).\nVerified No
+ vember 4\, 2026.\nASH abstract: https://onlineprogram.hematology.org/paper
+ -details.aspx?pid=694052\nASH session: https://onlineprogram.hematology.or
+ g/session-details.aspx?sid=119053\nThis event covers the full poster prese
+ ntation window. Poster number: 2367.
+LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
+ , Louisiana
+URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=694052
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:COAUTHORED,POSTER
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 UID:ash2026-abs26-7084@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261212T173000
 DTEND;TZID=America/Chicago:20261212T193000
 SUMMARY:ASH #2798 Poster: Real-world outcomes of older adults with relapsed
@@ -152,7 +152,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-4901@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261213T093000
 DTEND;TZID=America/Chicago:20261213T094500
 SUMMARY:ASH #542 Oral: Ciltacabtagene autoleucel across lines of therapy in
@@ -179,7 +179,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-4658@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261213T094500
 DTEND;TZID=America/Chicago:20261213T100000
 SUMMARY:ASH #541 Oral: Treatment modality and target antigen choice impact 
@@ -204,7 +204,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-11411@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261213T120000
 DTEND;TZID=America/Chicago:20261213T121500
 SUMMARY:ASH #643 Oral: Immune effector cell-associated enterocolitis after 
@@ -230,7 +230,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-12705@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261213T121500
 DTEND;TZID=America/Chicago:20261213T123000
 SUMMARY:ASH #644 Oral: Debulking therapy prior to bispecific antibody treat
@@ -256,7 +256,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-13637@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261213T124500
 DTEND;TZID=America/Chicago:20261213T130000
 SUMMARY:ASH #646 Oral: Real world patterns of BCMA-directed bispecific anti
@@ -279,7 +279,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-13530@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261213T130000
 DTEND;TZID=America/Chicago:20261213T131500
 SUMMARY:ASH #647 Oral: Description of talquetamab de-escalation practices i
@@ -301,33 +301,8 @@ CATEGORIES:COAUTHORED,ORAL
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:ash2026-abs26-5622@aportugu.local
-DTSTAMP:20261104T185441Z
-DTSTART;TZID=America/Chicago:20261213T180000
-DTEND;TZID=America/Chicago:20261213T200000
-SUMMARY:MY PRESENTATION — ASH #3509 Poster: Single-cell spatial transcrip
- tomics
-DESCRIPTION:Single-cell spatial transcriptomics defines distinct PD-1/PD-L1
-  axis architecture across EBV-stratified PTLD and non-PTLD DLBCL\nPresente
- r: Andrew Jay Portuguese\, MD\nSession: 621. LYMPHOMAS: TRANSLATIONAL – 
- MOLECULAR AND GENETIC: POSTER II\nAbstract #3509\; submission abs26-5622\n
- All times are New Orleans Central Time (CST\, UTC−06:00).\nVerified Nove
- mber 4\, 2026.\nASH abstract: https://onlineprogram.hematology.org/paper-d
- etails.aspx?pid=693227\nASH session: https://onlineprogram.hematology.org/
- session-details.aspx?sid=119323\nThis event covers the full poster present
- ation window. Poster number: 3509.\nBoth of your posters (#3509 and #4544)
-  share this Sunday 6–8 PM window in Hall F.
-LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
- , Louisiana
-URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=693227
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-CATEGORIES:MY PRESENTATIONS,POSTER
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:ash2026-abs26-5408@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261213T180000
 DTEND;TZID=America/Chicago:20261213T200000
 SUMMARY:MY PRESENTATION — ASH #4544 Poster: Linvoseltamab economics
@@ -351,84 +326,33 @@ CATEGORIES:MY PRESENTATIONS,POSTER
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:ash2026-abs26-2186@aportugu.local
-DTSTAMP:20261104T185441Z
+UID:ash2026-abs26-5622@aportugu.local
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261213T180000
 DTEND;TZID=America/Chicago:20261213T200000
-SUMMARY:ASH #3908 Poster: Safety and efficacy of the addition of nemtabruti
- nib to lisocabtagene maraleucel in patients with relapsed/refractory chron
- ic lymphocytic leukemia/small lymphocytic lymphoma (NemCAR)
-DESCRIPTION:Safety and efficacy of the addition of nemtabrutinib to lisocab
- tagene maraleucel in patients with relapsed/refractory chronic lymphocytic
-  leukemia/small lymphocytic lymphoma (NemCAR)\nPresenter: Jennifer J. Huan
- g\, MD\, PhD\nSession: 642. CHRONIC LYMPHOCYTIC LEUKEMIA: CLINICAL AND EPI
- DEMIOLOGICAL: POSTER II\nAbstract #3908\; submission abs26-2186\nAll times
-  are New Orleans Central Time (CST\, UTC−06:00).\nVerified November 4\, 
- 2026.\nASH abstract: https://onlineprogram.hematology.org/paper-details.as
- px?pid=688880\nASH session: https://onlineprogram.hematology.org/session-d
- etails.aspx?sid=119338\nThis event covers the full poster presentation win
- dow. Poster number: 3908.
+SUMMARY:MY PRESENTATION — ASH #3509 Poster: Single-cell spatial transcrip
+ tomics
+DESCRIPTION:Single-cell spatial transcriptomics defines distinct PD-1/PD-L1
+  axis architecture across EBV-stratified PTLD and non-PTLD DLBCL\nPresente
+ r: Andrew Jay Portuguese\, MD\nSession: 621. LYMPHOMAS: TRANSLATIONAL – 
+ MOLECULAR AND GENETIC: POSTER II\nAbstract #3509\; submission abs26-5622\n
+ All times are New Orleans Central Time (CST\, UTC−06:00).\nVerified Nove
+ mber 4\, 2026.\nASH abstract: https://onlineprogram.hematology.org/paper-d
+ etails.aspx?pid=693227\nASH session: https://onlineprogram.hematology.org/
+ session-details.aspx?sid=119323\nThis event covers the full poster present
+ ation window. Poster number: 3509.\nBoth of your posters (#3509 and #4544)
+  share this Sunday 6–8 PM window in Hall F.
 LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
  , Louisiana
-URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=688880
+URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=693227
 STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:COAUTHORED,POSTER
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:ash2026-abs26-9249@aportugu.local
-DTSTAMP:20261104T185441Z
-DTSTART;TZID=America/Chicago:20261213T180000
-DTEND;TZID=America/Chicago:20261213T200000
-SUMMARY:ASH #4038 Poster: Impact of time-of-day of CAR T-cell infusion on e
- fficacy and toxicity in relapsed/refractory multiple myeloma (RRMM)
-DESCRIPTION:Impact of time-of-day of CAR T-cell infusion on efficacy and to
- xicity in relapsed/refractory multiple myeloma (RRMM)\nPresenter: Sharlene
-  Dong\, MD\, MS\nSession: 655. MULTIPLE MYELOMA: CELLULAR THERAPIES: POSTE
- R II\nAbstract #4038\; submission abs26-9249\nAll times are New Orleans Ce
- ntral Time (CST\, UTC−06:00).\nVerified November 4\, 2026.\nASH abstract
- : https://onlineprogram.hematology.org/paper-details.aspx?pid=684212\nASH 
- session: https://onlineprogram.hematology.org/session-details.aspx?sid=119
- 343\nThis event covers the full poster presentation window. Poster number:
-  4038.
-LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
- , Louisiana
-URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=684212
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:COAUTHORED,POSTER
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:ash2026-abs26-5496@aportugu.local
-DTSTAMP:20261104T185441Z
-DTSTART;TZID=America/Chicago:20261213T180000
-DTEND;TZID=America/Chicago:20261213T200000
-SUMMARY:ASH #4163 Poster: Comparable anti-tumor efficacy after fully human 
- scfv-containing CD19 CAR T-cell therapy versus lisocabtagene maraleucel fo
- r relapsed or refractory large B-cell lymphoma beyond second-line therapy
-DESCRIPTION:Comparable anti-tumor efficacy after fully human scfv-containin
- g CD19 CAR T-cell therapy versus lisocabtagene maraleucel for relapsed or 
- refractory large B-cell lymphoma beyond second-line therapy\nPresenter: Za
- k A Yaffe\, MD\, PhD\nSession: 704. CELLULAR IMMUNOTHERAPIES: EARLY PHASE 
- CLINICAL TRIALS AND TOXICITIES: POSTER II\nAbstract #4163\; submission abs
- 26-5496\nAll times are New Orleans Central Time (CST\, UTC−06:00).\nVeri
- fied November 4\, 2026.\nASH abstract: https://onlineprogram.hematology.or
- g/paper-details.aspx?pid=691721\nASH session: https://onlineprogram.hemato
- logy.org/session-details.aspx?sid=119348\nThis event covers the full poste
- r presentation window. Poster number: 4163.
-LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
- , Louisiana
-URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=691721
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:COAUTHORED,POSTER
+TRANSP:OPAQUE
+CATEGORIES:MY PRESENTATIONS,POSTER
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-1871@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261213T180000
 DTEND;TZID=America/Chicago:20261213T200000
 SUMMARY:ASH #4395 Poster: A novel composite score of healthcare resource ut
@@ -453,8 +377,84 @@ CATEGORIES:COAUTHORED,POSTER
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+UID:ash2026-abs26-2186@aportugu.local
+DTSTAMP:20261105T164506Z
+DTSTART;TZID=America/Chicago:20261213T180000
+DTEND;TZID=America/Chicago:20261213T200000
+SUMMARY:ASH #3908 Poster: Safety and efficacy of the addition of nemtabruti
+ nib to lisocabtagene maraleucel in patients with relapsed/refractory chron
+ ic lymphocytic leukemia/small lymphocytic lymphoma (NemCAR)
+DESCRIPTION:Safety and efficacy of the addition of nemtabrutinib to lisocab
+ tagene maraleucel in patients with relapsed/refractory chronic lymphocytic
+  leukemia/small lymphocytic lymphoma (NemCAR)\nPresenter: Jennifer J. Huan
+ g\, MD\, PhD\nSession: 642. CHRONIC LYMPHOCYTIC LEUKEMIA: CLINICAL AND EPI
+ DEMIOLOGICAL: POSTER II\nAbstract #3908\; submission abs26-2186\nAll times
+  are New Orleans Central Time (CST\, UTC−06:00).\nVerified November 4\, 
+ 2026.\nASH abstract: https://onlineprogram.hematology.org/paper-details.as
+ px?pid=688880\nASH session: https://onlineprogram.hematology.org/session-d
+ etails.aspx?sid=119338\nThis event covers the full poster presentation win
+ dow. Poster number: 3908.
+LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
+ , Louisiana
+URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=688880
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:COAUTHORED,POSTER
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ash2026-abs26-5496@aportugu.local
+DTSTAMP:20261105T164506Z
+DTSTART;TZID=America/Chicago:20261213T180000
+DTEND;TZID=America/Chicago:20261213T200000
+SUMMARY:ASH #4163 Poster: Comparable anti-tumor efficacy after fully human 
+ scfv-containing CD19 CAR T-cell therapy versus lisocabtagene maraleucel fo
+ r relapsed or refractory large B-cell lymphoma beyond second-line therapy
+DESCRIPTION:Comparable anti-tumor efficacy after fully human scfv-containin
+ g CD19 CAR T-cell therapy versus lisocabtagene maraleucel for relapsed or 
+ refractory large B-cell lymphoma beyond second-line therapy\nPresenter: Za
+ k A Yaffe\, MD\, PhD\nSession: 704. CELLULAR IMMUNOTHERAPIES: EARLY PHASE 
+ CLINICAL TRIALS AND TOXICITIES: POSTER II\nAbstract #4163\; submission abs
+ 26-5496\nAll times are New Orleans Central Time (CST\, UTC−06:00).\nVeri
+ fied November 4\, 2026.\nASH abstract: https://onlineprogram.hematology.or
+ g/paper-details.aspx?pid=691721\nASH session: https://onlineprogram.hemato
+ logy.org/session-details.aspx?sid=119348\nThis event covers the full poste
+ r presentation window. Poster number: 4163.
+LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
+ , Louisiana
+URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=691721
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:COAUTHORED,POSTER
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ash2026-abs26-9249@aportugu.local
+DTSTAMP:20261105T164506Z
+DTSTART;TZID=America/Chicago:20261213T180000
+DTEND;TZID=America/Chicago:20261213T200000
+SUMMARY:ASH #4038 Poster: Impact of time-of-day of CAR T-cell infusion on e
+ fficacy and toxicity in relapsed/refractory multiple myeloma (RRMM)
+DESCRIPTION:Impact of time-of-day of CAR T-cell infusion on efficacy and to
+ xicity in relapsed/refractory multiple myeloma (RRMM)\nPresenter: Sharlene
+  Dong\, MD\, MS\nSession: 655. MULTIPLE MYELOMA: CELLULAR THERAPIES: POSTE
+ R II\nAbstract #4038\; submission abs26-9249\nAll times are New Orleans Ce
+ ntral Time (CST\, UTC−06:00).\nVerified November 4\, 2026.\nASH abstract
+ : https://onlineprogram.hematology.org/paper-details.aspx?pid=684212\nASH 
+ session: https://onlineprogram.hematology.org/session-details.aspx?sid=119
+ 343\nThis event covers the full poster presentation window. Poster number:
+  4038.
+LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
+ , Louisiana
+URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=684212
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:COAUTHORED,POSTER
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 UID:ash2026-abs26-2202@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261214T103000
 DTEND;TZID=America/Chicago:20261214T104500
 SUMMARY:ASH #841 Oral: Efficacy and safety of BCMA CAR-T therapy versus BCM
@@ -478,7 +478,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-7367@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261214T104500
 DTEND;TZID=America/Chicago:20261214T110000
 SUMMARY:ASH #842 Oral: Favorable outcomes following ciltacabtagene autoleuc
@@ -502,7 +502,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-5577@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261214T113000
 DTEND;TZID=America/Chicago:20261214T114500
 SUMMARY:MY PRESENTATION — ASH #845 Oral: Bispecific antibody discontinuat
@@ -525,8 +525,26 @@ CATEGORIES:MY PRESENTATIONS,ORAL
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+UID:ash2026-joe-lunch-20261214@aportugu.local
+DTSTAMP:20261105T164506Z
+DTSTART;TZID=America/Chicago:20261214T123000
+DTEND;TZID=America/Chicago:20261214T143000
+SUMMARY:Annual Joe Lunch ASH 2026
+DESCRIPTION:Hosted by Joseph and Emily Mikhael\nMentee lunch and conversati
+ on.\nNovember 4 invitation and supplied location update.\nAll times are Ne
+ w Orleans Central Time (CST\, UTC−06:00).\nAttendance not confirmed\; RS
+ VP requested.\nRSVP requested. Lunch ends 15 minutes before your 2:45 PM o
+ ral presentation in MCCNO rooms 260–262\; allow time to walk back.
+LOCATION:Galliano Restaurant\, 200 Julia St\, New Orleans\, Louisiana
+URL:https://www.gallianorestaurant.com/
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+CATEGORIES:SOCIAL,SOCIAL
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 UID:ash2026-abs26-5745@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261214T144500
 DTEND;TZID=America/Chicago:20261214T150000
 SUMMARY:MY PRESENTATION — ASH #967 Oral: Tumor flare after bispecific ant
@@ -550,7 +568,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-12799@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261214T151500
 DTEND;TZID=America/Chicago:20261214T153000
 SUMMARY:ASH #969 Oral: Maintenance therapy post-ciltacabtagene autoleucel (
@@ -575,7 +593,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-13027@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261214T153000
 DTEND;TZID=America/Chicago:20261214T154500
 SUMMARY:ASH #970 Oral: Prophylactic tocilizumab prior to bispecific antibod
@@ -598,7 +616,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-2096@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261214T160000
 DTEND;TZID=America/Chicago:20261214T161500
 SUMMARY:ASH #972 Oral: Step-up dosing (SUD) patterns for teclistamab + dara
@@ -623,7 +641,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ash2026-abs26-7056@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261214T171500
 DTEND;TZID=America/Chicago:20261214T173000
 SUMMARY:ASH #1048 Oral: Clinical outcomes of translocation (11\;14) multipl
@@ -645,8 +663,58 @@ CATEGORIES:COAUTHORED,ORAL
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+UID:ash2026-abs26-15310@aportugu.local
+DTSTAMP:20261105T164506Z
+DTSTART;TZID=America/Chicago:20261214T180000
+DTEND;TZID=America/Chicago:20261214T200000
+SUMMARY:ASH #5786 Poster: Efficacy of talquetamab (talq) retreatment follow
+ ing talq bridging for CAR-T cell therapy in multiple myeloma (MM): Data fr
+ om the US MM immunotherapy consortium
+DESCRIPTION:Efficacy of talquetamab (talq) retreatment following talq bridg
+ ing for CAR-T cell therapy in multiple myeloma (MM): Data from the US MM i
+ mmunotherapy consortium\nPresenter: Darren Pan\, MD\nSession: 654. MULTIPL
+ E MYELOMA: PHARMACOLOGIC THERAPIES: POSTER III\nAbstract #5786\; submissio
+ n abs26-15310\nAll times are New Orleans Central Time (CST\, UTC−06:00).
+ \nVerified November 4\, 2026.\nASH abstract: https://onlineprogram.hematol
+ ogy.org/paper-details.aspx?pid=693963\nASH session: https://onlineprogram.
+ hematology.org/session-details.aspx?sid=119419\nThis event covers the full
+  poster presentation window. Poster number: 5786.
+LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
+ , Louisiana
+URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=693963
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:COAUTHORED,POSTER
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ash2026-abs26-5980@aportugu.local
+DTSTAMP:20261105T164506Z
+DTSTART;TZID=America/Chicago:20261214T180000
+DTEND;TZID=America/Chicago:20261214T200000
+SUMMARY:ASH #5811 Poster: Impact of stem cell transplantation on subsequent
+  BCMA CAR-T outcomes in multiple myeloma (MM): Data from the US MM immunot
+ herapy consortium
+DESCRIPTION:Impact of stem cell transplantation on subsequent BCMA CAR-T ou
+ tcomes in multiple myeloma (MM): Data from the US MM immunotherapy consort
+ ium\nPresenter: Joseph Franz\, MD\nSession: 655. MULTIPLE MYELOMA: CELLULA
+ R THERAPIES: POSTER III\nAbstract #5811\; submission abs26-5980\nAll times
+  are New Orleans Central Time (CST\, UTC−06:00).\nVerified November 4\, 
+ 2026.\nASH abstract: https://onlineprogram.hematology.org/paper-details.as
+ px?pid=684244\nASH session: https://onlineprogram.hematology.org/session-d
+ etails.aspx?sid=119420\nThis event covers the full poster presentation win
+ dow. Poster number: 5811.
+LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
+ , Louisiana
+URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=684244
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:COAUTHORED,POSTER
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 UID:ash2026-abs26-6395@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261214T180000
 DTEND;TZID=America/Chicago:20261214T200000
 SUMMARY:ASH #5742 Poster: Timing of tocilizumab (Prophylactic versus Early 
@@ -672,58 +740,8 @@ CATEGORIES:COAUTHORED,POSTER
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:ash2026-abs26-15310@aportugu.local
-DTSTAMP:20261104T185441Z
-DTSTART;TZID=America/Chicago:20261214T180000
-DTEND;TZID=America/Chicago:20261214T200000
-SUMMARY:ASH #5786 Poster: Efficacy of talquetamab (talq) retreatment follow
- ing talq bridging for CAR-T cell therapy in multiple myeloma (MM): Data fr
- om the US MM immunotherapy consortium
-DESCRIPTION:Efficacy of talquetamab (talq) retreatment following talq bridg
- ing for CAR-T cell therapy in multiple myeloma (MM): Data from the US MM i
- mmunotherapy consortium\nPresenter: Darren Pan\, MD\nSession: 654. MULTIPL
- E MYELOMA: PHARMACOLOGIC THERAPIES: POSTER III\nAbstract #5786\; submissio
- n abs26-15310\nAll times are New Orleans Central Time (CST\, UTC−06:00).
- \nVerified November 4\, 2026.\nASH abstract: https://onlineprogram.hematol
- ogy.org/paper-details.aspx?pid=693963\nASH session: https://onlineprogram.
- hematology.org/session-details.aspx?sid=119419\nThis event covers the full
-  poster presentation window. Poster number: 5786.
-LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
- , Louisiana
-URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=693963
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:COAUTHORED,POSTER
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:ash2026-abs26-5980@aportugu.local
-DTSTAMP:20261104T185441Z
-DTSTART;TZID=America/Chicago:20261214T180000
-DTEND;TZID=America/Chicago:20261214T200000
-SUMMARY:ASH #5811 Poster: Impact of stem cell transplantation on subsequent
-  BCMA CAR-T outcomes in multiple myeloma (MM): Data from the US MM immunot
- herapy consortium
-DESCRIPTION:Impact of stem cell transplantation on subsequent BCMA CAR-T ou
- tcomes in multiple myeloma (MM): Data from the US MM immunotherapy consort
- ium\nPresenter: Joseph Franz\, MD\nSession: 655. MULTIPLE MYELOMA: CELLULA
- R THERAPIES: POSTER III\nAbstract #5811\; submission abs26-5980\nAll times
-  are New Orleans Central Time (CST\, UTC−06:00).\nVerified November 4\, 
- 2026.\nASH abstract: https://onlineprogram.hematology.org/paper-details.as
- px?pid=684244\nASH session: https://onlineprogram.hematology.org/session-d
- etails.aspx?sid=119420\nThis event covers the full poster presentation win
- dow. Poster number: 5811.
-LOCATION:MCCNO - Hall F\, Ernest N. Morial Convention Center\, New Orleans\
- , Louisiana
-URL:https://onlineprogram.hematology.org/paper-details.aspx?pid=684244
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:COAUTHORED,POSTER
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:ash2026-abs26-6409@aportugu.local
-DTSTAMP:20261104T185441Z
+DTSTAMP:20261105T164506Z
 DTSTART;TZID=America/Chicago:20261214T180000
 DTEND;TZID=America/Chicago:20261214T200000
 SUMMARY:ASH #6309 Poster: Impact of geographic distances on bispecific anti

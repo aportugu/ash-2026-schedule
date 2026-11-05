@@ -9,3 +9,5 @@ Verified November 4, 2026 against the official ASH program. All displayed times 
 Download the ICS calendar or CSV from the schedule page. Your four presentations are marked busy; other coauthored presentations are marked free. No reminders are included.
 
 This is a static snapshot. Updates require a new commit.
+
+Added Annual Joe Lunch: December 14, 2026, 12:30–2:30 PM CST at Galliano Restaurant, 200 Julia St. Tentative calendar hold; supplied invitation and location update reviewed November 5, 2026.
