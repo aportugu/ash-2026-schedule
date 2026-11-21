@@ -765,4 +765,34 @@ TRANSP:TRANSPARENT
 CATEGORIES:COAUTHORED,POSTER
 SEQUENCE:0
 END:VEVENT
+BEGIN:VEVENT
+UID:ash2026-flight-as568-20261210@aportugu.local
+DTSTAMP:20261121T200000Z
+DTSTART:20261210T174400Z
+DTEND:20261210T221600Z
+SUMMARY:Alaska AS 568: Seattle (SEA) to New Orleans (MSY)
+DESCRIPTION:Alaska Airlines AS 568. Departs SEA 9:44 AM PST\; arrives MSY 4
+ :16 PM CST.\nSource: booking confirmation email dated October 4\, 2026\; a
+ dded November 21\, 2026. Booked itinerary\, not live flight status.
+LOCATION:Seattle (SEA) to New Orleans (MSY)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:TRAVEL,FLIGHT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ash2026-flight-as569-20261214@aportugu.local
+DTSTAMP:20261121T200000Z
+DTSTART:20261214T231900Z
+DTEND:20261215T044900Z
+SUMMARY:Alaska AS 569: New Orleans (MSY) to Seattle (SEA)
+DESCRIPTION:Alaska Airlines AS 569. Departs MSY 5:19 PM CST\; arrives SEA 8
+ :49 PM PST.\nSource: booking confirmation email dated October 4\, 2026\; a
+ dded November 21\, 2026. Booked itinerary\, not live flight status.
+LOCATION:New Orleans (MSY) to Seattle (SEA)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:TRAVEL,FLIGHT
+SEQUENCE:0
+END:VEVENT
 END:VCALENDAR
