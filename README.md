@@ -20,3 +20,5 @@ Added flights November 21, 2026 from the Alaska Airlines booking email dated Oct
 Both flights are confirmed, busy calendar events without reminders. Calendar timestamps use UTC to preserve the correct departure and arrival instants across time zones. CSV rows use offset-aware local timestamps; the timezone column names the departure zone and reconciliation notes identify the arrival zone. Existing CSV columns are unchanged.
 
 The return flight overlaps the December 14 5:15–5:30 PM coauthored oral presentation and 6–8 PM coauthored posters. The site shows the booked itinerary, not live flight status. Booking codes, ticket numbers, payment details, and loyalty information are omitted.
+
+Added a compact “Trip at a glance” timeline of December 10 travel, the December 13 personal poster window, and December 14 personal talks, tentative Joe Lunch, and return flight. Milestones link to the detailed sections; the timeline is horizontal on desktop and vertical on mobile. Conference events use CST and flights use airport-local time zones.
